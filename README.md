@@ -1,6 +1,6 @@
 # Abdalrahman Alzaro — Personal Portfolio
 
-A clean, responsive personal portfolio website for **Abdalrahman Alzaro**, a Full Stack Developer based in Zarqa, Jordan. Built with pure HTML5 and CSS3, featuring a modern bento-grid layout with smooth animations and full mobile responsiveness.
+A clean, responsive personal portfolio website for **Abdalrahman Alzaro**, a Full Stack Developer based in Zarqa, Jordan. Built with pure HTML5 and CSS3, featuring a modern card-grid layout with smooth animations and full mobile responsiveness.
 
 ---
 
@@ -26,7 +26,7 @@ A clean, responsive personal portfolio website for **Abdalrahman Alzaro**, a Ful
 
 | Page     | File                 | Description                                                                     |
 | -------- | -------------------- | ------------------------------------------------------------------------------- |
-| Home     | `index.html`         | Hero bento-grid with intro, social links, stats, services, and skills           |
+| Home     | `index.html`         | Hero grid with intro, social links, stats, services, and skills                 |
 | About    | `Html/about.html`    | Bio, contact info, work history, education, skill bars, and graduation project  |
 | Projects | `Html/projects.html` | Showcase of featured projects with tech stacks and live links                   |
 | Contact  | `Html/contact.html`  | All contact channels: email, phone, location, LinkedIn, GitHub, and CV download |
@@ -60,7 +60,7 @@ Port/
 The portfolio itself is built with:
 
 - **HTML5** — semantic markup, no frameworks
-- **CSS3** — custom bento-grid layout, CSS animations, keyframes
+- **CSS3** — custom grid layout, CSS animations, keyframes
 - **[Iconify](https://iconify.design/)** — icon library loaded via CDN (`iconify-icon` web component)
 - **Pure CSS hamburger menu** — mobile navigation via checkbox toggle, no JavaScript
 
@@ -68,7 +68,7 @@ The portfolio itself is built with:
 
 ## Features
 
-- **Bento-grid layout** — modern card-based design on every page
+- **Card-grid layout** — modern card-based design on every page
 - **Fully responsive** — hamburger menu + stacked layout on mobile
 - **Active nav links** — each page highlights its own nav item
 - **Skill progress bars** — animated bars showing proficiency levels

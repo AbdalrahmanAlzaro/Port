@@ -4,9 +4,19 @@ A clean, responsive personal portfolio website for **Abdalrahman Alzaro**, a Ful
 
 ---
 
-## Live Preview
+## 🌐 Live Demo
 
-**[View Live Site](https://port-nu-kohl.vercel.app/index.html)**
+<div align="center">
+
+### 🔗 [port-nu-kohl.vercel.app](https://port-nu-kohl.vercel.app/index.html)
+
+[![Live on Vercel](https://img.shields.io/badge/🚀%20View%20Live%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://port-nu-kohl.vercel.app/index.html)
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://port-nu-kohl.vercel.app/index.html)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://port-nu-kohl.vercel.app/index.html)
+[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000?style=for-the-badge&logo=vercel)](https://port-nu-kohl.vercel.app/index.html)
+
+</div>
 
 > To run locally, serve the project from the root directory via any static file server. The site uses absolute paths (`/Css/`, `/Html/`, `/Assets/`), so it must be served from root — not opened as a plain file.
 
@@ -82,8 +92,10 @@ AI-powered disaster detection system using machine learning and computer vision 
 
 Bilingual (Arabic/English) cosmetics store with Stripe payments, inventory management, and full RTL/LTR UX.
 
-- Live: [fwaha.shop](https://fwaha.shop)
 - Stack: `Next.js` · `TypeScript` · `Node.js` · `PostgreSQL` · `Stripe`
+- Live site:
+
+  [![Visit Fwaha](https://img.shields.io/badge/🟢%20fwaha.shop-Live%20Store-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white)](https://fwaha.shop)
 
 ### General Authority for Youth — Kuwait · Government
 

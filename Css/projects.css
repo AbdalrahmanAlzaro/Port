@@ -316,27 +316,90 @@ nav {
   border-radius: 50px;
 }
 
-.site-links {
+.live-label {
+  font-size: 10px;
+  color: #4ade80;
+  text-transform: uppercase;
+  letter-spacing: 1.2px;
+  font-weight: 600;
+  margin: 10px 0 6px;
   display: flex;
-  flex-wrap: wrap;
+  align-items: center;
   gap: 6px;
-  margin: 10px 0;
+}
+
+.live-label::before {
+  content: "";
+  display: inline-block;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #4ade80;
+  box-shadow: 0 0 6px #4ade80;
+  flex-shrink: 0;
+}
+
+.site-links {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6px;
+  margin-bottom: 10px;
 }
 
 .site-link {
-  font-size: 11px;
-  color: #9b5cff;
+  display: flex;
+  align-items: center;
+  gap: 7px;
   text-decoration: none;
-  border: 1px solid rgba(155, 92, 255, 0.25);
-  background: rgba(155, 92, 255, 0.07);
-  padding: 3px 10px;
-  border-radius: 50px;
-  transition: background 0.2s, color 0.2s;
+  background: #131316;
+  border: 1px solid #252525;
+  border-radius: 10px;
+  padding: 8px 10px;
+  transition: border-color 0.2s, background 0.2s;
 }
 
 .site-link:hover {
-  background: rgba(155, 92, 255, 0.2);
+  border-color: rgba(155, 92, 255, 0.5);
+  background: rgba(155, 92, 255, 0.07);
+}
+
+.site-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #4ade80;
+  box-shadow: 0 0 5px #4ade80;
+  flex-shrink: 0;
+}
+
+.site-name {
+  font-size: 11px;
+  color: #ccc;
+  flex: 1;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  transition: color 0.2s;
+}
+
+.site-link:hover .site-name {
   color: #fff;
+}
+
+.site-arrow {
+  font-size: 12px;
+  color: #444;
+  flex-shrink: 0;
+  transition: color 0.2s;
+}
+
+.site-link:hover .site-arrow {
+  color: #9b5cff;
+}
+
+.fwaha-link {
+  display: flex;
+  margin-bottom: 10px;
 }
 
 .disaster-box {

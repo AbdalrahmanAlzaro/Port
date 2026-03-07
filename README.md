@@ -87,8 +87,16 @@ Kuwait's national youth platform serving **100K+ users**. Led frontend developme
 
 ### Global Line — Corporate Portfolio
 15+ bilingual corporate websites independently built, deployed, and actively maintained in production (1–2 deployments/month).
-- Clients include: Palm Gate, Royal Gate, Bronze Bridge, Alamal Layan, and 10+ more
 - Stack: `Next.js` · `next-intl` · `Vercel` · `RTL/LTR` · `SEO`
+- Live sites:
+  - [bronzebridgejo.com](https://www.bronzebridgejo.com/en)
+  - [palmgatefruit.com](https://www.palmgatefruit.com/en)
+  - [tajdevcompany.com](https://www.tajdevcompany.com/en)
+  - [creativityroad.co](https://www.creativityroad.co/en)
+  - [royal-gate.co](https://www.royal-gate.co/en)
+  - [duralfaisal.com](https://www.duralfaisal.com/en)
+  - [maharetaliraq.com](https://www.maharetaliraq.com/en)
+  - [royalportalexport.com](https://www.royalportalexport.com/ar)
 
 ### Knowledge Gateway — CMA · Enterprise Education
 Educational platform for Gulf Capital Markets with course browsing and online booking.

@@ -6,7 +6,7 @@ A clean, responsive personal portfolio website for **Abdalrahman Alzaro**, a Ful
 
 ## Live Preview
 
-**[View Live Site](https://port-nukohl.vercel.app/index.html)**
+**[View Live Site](https://port-nu-kohl.vercel.app/index.html)**
 
 > To run locally, serve the project from the root directory via any static file server. The site uses absolute paths (`/Css/`, `/Html/`, `/Assets/`), so it must be served from root — not opened as a plain file.
 
@@ -14,12 +14,12 @@ A clean, responsive personal portfolio website for **Abdalrahman Alzaro**, a Ful
 
 ## Pages
 
-| Page | File | Description |
-|------|------|-------------|
-| Home | `index.html` | Hero bento-grid with intro, social links, stats, services, and skills |
-| About | `Html/about.html` | Bio, contact info, work history, education, skill bars, and graduation project |
-| Projects | `Html/projects.html` | Showcase of featured projects with tech stacks and live links |
-| Contact | `Html/contact.html` | All contact channels: email, phone, location, LinkedIn, GitHub, and CV download |
+| Page     | File                 | Description                                                                     |
+| -------- | -------------------- | ------------------------------------------------------------------------------- |
+| Home     | `index.html`         | Hero bento-grid with intro, social links, stats, services, and skills           |
+| About    | `Html/about.html`    | Bio, contact info, work history, education, skill bars, and graduation project  |
+| Projects | `Html/projects.html` | Showcase of featured projects with tech stacks and live links                   |
+| Contact  | `Html/contact.html`  | All contact channels: email, phone, location, LinkedIn, GitHub, and CV download |
 
 ---
 
@@ -72,21 +72,29 @@ The portfolio itself is built with:
 ## Featured Projects
 
 ### DisasterAI — Graduation Project · AI
+
 AI-powered disaster detection system using machine learning and computer vision to classify emergency situations from text and images in real time.
+
 - **Text accuracy:** 98.68% | **Image accuracy:** 96.97%
 - Stack: `Python` · `FastAPI` · `React` · `PostgreSQL` · `ML / CV`
 
 ### Fwaha — E-Commerce
+
 Bilingual (Arabic/English) cosmetics store with Stripe payments, inventory management, and full RTL/LTR UX.
+
 - Live: [fwaha.shop](https://fwaha.shop)
 - Stack: `Next.js` · `TypeScript` · `Node.js` · `PostgreSQL` · `Stripe`
 
 ### General Authority for Youth — Kuwait · Government
+
 Kuwait's national youth platform serving **100K+ users**. Led frontend development with Redux state management, multiple API integrations, and strict SEO/performance requirements.
+
 - Stack: `Next.js` · `React` · `Redux` · `Axios` · `Laravel API`
 
 ### Global Line — Corporate Portfolio
+
 15+ bilingual corporate websites independently built, deployed, and actively maintained in production (1–2 deployments/month).
+
 - Stack: `Next.js` · `next-intl` · `Vercel` · `RTL/LTR` · `SEO`
 - Live sites:
   - [bronzebridgejo.com](https://www.bronzebridgejo.com/en)
@@ -99,11 +107,15 @@ Kuwait's national youth platform serving **100K+ users**. Led frontend developme
   - [royalportalexport.com](https://www.royalportalexport.com/ar)
 
 ### Knowledge Gateway — CMA · Enterprise Education
+
 Educational platform for Gulf Capital Markets with course browsing and online booking.
+
 - Stack: `Next.js` · `React` · `REST APIs`
 
 ### RateMate — Full Stack Capstone
+
 Service review and comparison platform. Users discover and review providers across restaurants, automotive, and home services.
+
 - Stack: `React` · `Tailwind CSS` · `Node.js` · `PostgreSQL` · `JWT`
 
 ---
@@ -112,36 +124,36 @@ Service review and comparison platform. Users discover and review providers acro
 
 **Abdalrahman Alzaro** — Full Stack Developer with **2.5+ years** of experience building bilingual Arabic/English web platforms.
 
-| | |
-|---|---|
-| **Location** | Zarqa, Jordan — open to remote & on-site worldwide |
-| **Education** | B.Sc. Computer Information Systems — The Hashemite University (Feb 2026) |
-| **Experience** | Global Line (2024–Now) · Ascot Enterprise Solutions (2022–2024) |
-| **Users served** | 100K+ across production platforms |
-| **Projects shipped** | 30+ |
+|                      |                                                                          |
+| -------------------- | ------------------------------------------------------------------------ |
+| **Location**         | Zarqa, Jordan — open to remote & on-site worldwide                       |
+| **Education**        | B.Sc. Computer Information Systems — The Hashemite University (Feb 2026) |
+| **Experience**       | Global Line (2024–Now) · Ascot Enterprise Solutions (2022–2024)          |
+| **Users served**     | 100K+ across production platforms                                        |
+| **Projects shipped** | 30+                                                                      |
 
 ### Technical Skills
 
-| Skill | Proficiency |
-|-------|------------|
-| Tailwind CSS | 92% |
-| Next.js | 90% |
-| React | 88% |
-| Node.js / Express | 85% |
-| TypeScript | 82% |
-| PostgreSQL | 80% |
+| Skill             | Proficiency |
+| ----------------- | ----------- |
+| Tailwind CSS      | 92%         |
+| Next.js           | 90%         |
+| React             | 88%         |
+| Node.js / Express | 85%         |
+| TypeScript        | 82%         |
+| PostgreSQL        | 80%         |
 
 ---
 
 ## Contact
 
-| Channel | Details |
-|---------|---------|
-| Email | [abdalrahman.h.alzaro@gmail.com](mailto:abdalrahman.h.alzaro@gmail.com) |
-| Phone | [+962 78 211 1991](tel:+962782111991) |
-| LinkedIn | [abdalrahman-alzaro](https://www.linkedin.com/in/abdalrahman-alzaro/) |
-| GitHub | [AbdalrahmanAlzaro](https://github.com/AbdalrahmanAlzaro) |
-| Instagram | [abd_h_z](https://www.instagram.com/abd_h_z/) |
+| Channel   | Details                                                                 |
+| --------- | ----------------------------------------------------------------------- |
+| Email     | [abdalrahman.h.alzaro@gmail.com](mailto:abdalrahman.h.alzaro@gmail.com) |
+| Phone     | [+962 78 211 1991](tel:+962782111991)                                   |
+| LinkedIn  | [abdalrahman-alzaro](https://www.linkedin.com/in/abdalrahman-alzaro/)   |
+| GitHub    | [AbdalrahmanAlzaro](https://github.com/AbdalrahmanAlzaro)               |
+| Instagram | [abd_h_z](https://www.instagram.com/abd_h_z/)                           |
 
 ---
 

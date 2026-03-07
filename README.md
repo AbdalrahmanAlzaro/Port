@@ -6,7 +6,9 @@ A clean, responsive personal portfolio website for **Abdalrahman Alzaro**, a Ful
 
 ## Live Preview
 
-> Serve the project from the root directory via any static file server. The site uses absolute paths (`/Css/`, `/Html/`, `/Assets/`), so it must be served from root — not opened as a plain file.
+**[View Live Site](https://port-nukohl.vercel.app/index.html)**
+
+> To run locally, serve the project from the root directory via any static file server. The site uses absolute paths (`/Css/`, `/Html/`, `/Assets/`), so it must be served from root — not opened as a plain file.
 
 ---
 
